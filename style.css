@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    border: 2px solid;
+    text-align: center;
+    padding-top: 2%;
+}
+
+
+.register {
+    margin-left: -2%;
+}
+
+.login {
+    margin-left: -8%;
+}
+
+.first {
+    margin-left: -5.5%;
+}
+
+.sell {
+    margin-left: -7.5%;
+}
+
+.frent {
+    margin-left: -10%;
+}
+
+.pg {
+    margin-left: -13%;
+}
+
+.rent {
+    margin-left: -14%;
+}
+
+.buy {
+    margin-left: -11%;
+}
+
+hr {
+    border: 3px solid;
+}
+
+
